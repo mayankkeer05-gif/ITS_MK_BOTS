@@ -6,7 +6,6 @@
 ## 🛠️ Requirements
 *   **GitHub Account**
 *   **Aternos Server**
-*   ** Account** (for 24/7 hosting)
 *   **Common Sense!** 🧠        
 
 ---
@@ -15,7 +14,7 @@
 
 We have made setup super easy! Check out the guide below:
 
-[**Detailed Google Doc Guide**](https://docs.google.com/document/d/1Fl0dRzP6O30ehp5-QcaB11IobF8I1JJhKUipzCWiCYA/edit?tab=t.0).
+[**Detailed Google Doc Guide**](SOON).
 
 ---
 
